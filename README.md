@@ -13,7 +13,7 @@ Currently, I am pursuing MSc Information Technology with Project Management in t
 
 - 🌍 I am based in London, United Kingdom
 - 💻 I have experience in Laravel, PHP, JavaScript, Node.js, Express.js, MongoDB and MySQL
-- 🔭 I am currently working on backend API projects
+- 🔭 I am currently working on FinFlow a fintech project idea
 - 🌱 I am improving my skills in Docker, system design and full-stack development
 - 👨‍💻 All of my projects are available on my GitHub
 - 📫 You can contact me at: **vikaskushwaha.dev00@gmail.com**
