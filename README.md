@@ -22,16 +22,40 @@ Based in London, United Kingdom, and currently pursuing an MSc in Information Te
 | **DevOps / Tools** | Docker, Git, GitHub, Postman, Vite |
 | **Engineering** | API design, third-party integrations, performance optimization, automated testing, code review, object-oriented design |
 
-## Open Source Contributions
+## Latest contributions
 
-Recent merged contributions:
+🚀 I enjoy fixing bugs and improving the open source tools I use. These pull requests have been merged.
 
-- **[Laravel Framework](https://github.com/laravel/framework)** — Added [LazyCollection support for SQL between clauses](https://github.com/laravel/framework/pull/61678).
-- **[LibreSign](https://github.com/LibreSign/libresign)** — Added [drag-and-drop document uploads](https://github.com/LibreSign/libresign/pull/8417), [migrated controllers to focused validators](https://github.com/LibreSign/libresign/pull/8383), [removed the compatibility facade](https://github.com/LibreSign/libresign/pull/8412), and updated the [JSignPdf PHP dependency](https://github.com/LibreSign/libresign/pull/8535) and [third-party package](https://github.com/LibreSign/3rdparty/pull/102) to 3.2.0.
-- **[JSignPdf PHP](https://github.com/JSignPdf/jsignpdf-php)** — Added [support for existing PDF signature fields](https://github.com/JSignPdf/jsignpdf-php/pull/65) and [updated the default JSignPdf runtime to 3.2.0](https://github.com/JSignPdf/jsignpdf-php/pull/64).
-- **[Kin](https://github.com/firelock-ai/kin)** — Made the [`--continue` CLI alias visible in help](https://github.com/firelock-ai/kin/pull/1776) and [documented C# and Ruby test detection limitations](https://github.com/firelock-ai/kin/pull/1780).
+**`laravel/framework`**
+
+- [#61678](https://github.com/laravel/framework/pull/61678): Support `LazyCollection` values in SQL between clauses.
+
+**`LibreSign/libresign`**
+
+- [#8535](https://github.com/LibreSign/libresign/pull/8535): Update the JSignPdf PHP dependency to 3.2.0.
+- [#8417](https://github.com/LibreSign/libresign/pull/8417): Add drag-and-drop document uploads to the signature request page.
+- [#8412](https://github.com/LibreSign/libresign/pull/8412): Remove the `ValidateHelper` compatibility facade.
+- [#8383](https://github.com/LibreSign/libresign/pull/8383): Migrate controllers to focused validators.
+
+**`LibreSign/3rdparty`**
+
+- [#102](https://github.com/LibreSign/3rdparty/pull/102): Update `jsignpdf-php` to 3.2.0.
+
+**`JSignPdf/jsignpdf-php`**
+
+- [#65](https://github.com/JSignPdf/jsignpdf-php/pull/65): Support inspecting and signing existing PDF signature fields.
+- [#64](https://github.com/JSignPdf/jsignpdf-php/pull/64): Update the default JSignPdf runtime to 3.2.0.
+
+**`firelock-ai/kin`**
+
+- [#1780](https://github.com/firelock-ai/kin/pull/1780): Explain C# and Ruby test detection limitations.
+- [#1776](https://github.com/firelock-ai/kin/pull/1776): Show the `--continue` alias in CLI help.
 
 ## Connect
 
 - **Email:** [vikaskushwaha.dev00@gmail.com](mailto:vikaskushwaha.dev00@gmail.com)
 - **LinkedIn:** [linkedin.com/in/vikas-kushwaha-dev](https://www.linkedin.com/in/vikas-kushwaha-dev)
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=vikas-kushwaha-dev&label=Profile+views&color=0e75b6&style=flat)
