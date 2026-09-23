@@ -22,10 +22,14 @@ Based in London, United Kingdom, and currently pursuing an MSc in Information Te
 | **DevOps / Tools** | Docker, Git, GitHub, Postman, Vite |
 | **Engineering** | API design, third-party integrations, performance optimization, automated testing, code review, object-oriented design |
 
-## Open Source
+## Open Source Contributions
 
-- **[LibreSign](https://github.com/LibreSign/libresign)** — Contributing PHP backend refactoring work, including [an open compatibility-facade cleanup](https://github.com/LibreSign/libresign/pull/8412) and [a merged controller validation refactor](https://github.com/LibreSign/libresign/pull/8383).
-- **[Kin](https://github.com/firelock-ai/kin)** — Contributing Rust CLI and documentation improvements, including [an open CLI startup fix](https://github.com/firelock-ai/kin/pull/1779) and [a merged language-support documentation update](https://github.com/firelock-ai/kin/pull/1780).
+Recent merged contributions:
+
+- **[Laravel Framework](https://github.com/laravel/framework)** — Added [LazyCollection support for SQL between clauses](https://github.com/laravel/framework/pull/61678).
+- **[LibreSign](https://github.com/LibreSign/libresign)** — Added [drag-and-drop document uploads](https://github.com/LibreSign/libresign/pull/8417), [migrated controllers to focused validators](https://github.com/LibreSign/libresign/pull/8383), [removed the compatibility facade](https://github.com/LibreSign/libresign/pull/8412), and updated the [JSignPdf PHP dependency](https://github.com/LibreSign/libresign/pull/8535) and [third-party package](https://github.com/LibreSign/3rdparty/pull/102) to 3.2.0.
+- **[JSignPdf PHP](https://github.com/JSignPdf/jsignpdf-php)** — Added [support for existing PDF signature fields](https://github.com/JSignPdf/jsignpdf-php/pull/65) and [updated the default JSignPdf runtime to 3.2.0](https://github.com/JSignPdf/jsignpdf-php/pull/64).
+- **[Kin](https://github.com/firelock-ai/kin)** — Made the [`--continue` CLI alias visible in help](https://github.com/firelock-ai/kin/pull/1776) and [documented C# and Ruby test detection limitations](https://github.com/firelock-ai/kin/pull/1780).
 
 ## Connect
 
