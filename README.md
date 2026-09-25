@@ -1,6 +1,6 @@
 # Hi, I'm Vikas Kushwaha 👋
 
-### Backend Engineer | PHP/Laravel • Python • Go • Node.js • REST APIs • Docker
+### Backend Engineer | PHP/Laravel • Python • Go • Node.js • REST APIs • Docker 
 
 Backend Engineer with 3+ years of experience building and maintaining Laravel web applications, REST APIs, and reliable backend systems. My work includes database and schema design, third-party API integrations, performance optimization, automated testing, and code review.
 
