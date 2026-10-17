@@ -55,7 +55,3 @@ Based in London, United Kingdom, and currently pursuing an MSc in Information Te
 
 - **Email:** [vikaskushwaha.dev00@gmail.com](mailto:vikaskushwaha.dev00@gmail.com)
 - **LinkedIn:** [linkedin.com/in/vikas-kushwaha-dev](https://www.linkedin.com/in/vikas-kushwaha-dev)
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=vikas-kushwaha-dev&label=Profile+views&color=0e75b6&style=flat)
